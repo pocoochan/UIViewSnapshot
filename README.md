@@ -1,0 +1,2 @@
+# UIViewSnapshot
+UIViewからUIImageへ変換しカメラロールに保存する
